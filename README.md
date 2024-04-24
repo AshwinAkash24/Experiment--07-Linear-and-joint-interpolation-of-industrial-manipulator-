@@ -37,6 +37,7 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Program : 
 DART studio screen shots for linear interpolation 
+![WhatsApp Image 2024-04-15 at 14 31 22_3d77fb71](https://github.com/AshwinAkash24/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979248/9a744d6e-5f69-4135-b267-d46f49c2f711)
 
 
 
@@ -47,6 +48,7 @@ DART studio screen shots for linear interpolation
 
 
 DART studio screen shots for joint interpolation 
+![WhatsApp Image 2024-04-22 at 10 52 44_78ce86e3](https://github.com/AshwinAkash24/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979248/1401945a-2017-4419-be3e-a903389339e6)
 
 
 
@@ -57,7 +59,10 @@ DART studio screen shots for joint interpolation
 
 ### Robot movements 
 
+![WhatsApp Image 2024-04-22 at 10 52 43_428fcc5f](https://github.com/AshwinAkash24/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979248/87c672a5-9aeb-42a5-8dcb-877140c68999)
 
+![WhatsApp Image 2024-04-22 at 10 52 43_b765c722](https://github.com/AshwinAkash24/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979248/544a1317-ddf8-4660-a11e-8341065ca557)
+![WhatsApp Image 2024-04-22 at 10 52 44_5e209430](https://github.com/AshwinAkash24/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979248/200f8758-edc0-42ba-95b5-0d9f5b168727)
 
 
 
@@ -71,3 +76,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+Hence,the Linear and joint interpolation of industrial manipulator is successfully executed.
