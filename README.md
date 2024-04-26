@@ -1,8 +1,8 @@
-# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+# Experiment-07-Linear and joint interpolation of industrial manipulator
+# Date: 24-04-2024
 # Name: Ashwin Akash M
 # Reference Number: 212223230024
 # Department: AI&DS
-# Date: 24-04-2024
 ### Aim :
 To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
